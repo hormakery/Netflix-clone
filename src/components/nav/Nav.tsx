@@ -21,18 +21,7 @@ function Nav() {
     
   // },[])
 
-  // const [isScrolled, setIsScrolled] = useState(false);
-
-  // window.onscroll = () => {
-  //   setIsScrolled(window.pageYOffset > 100 ? false : true);
-  //   return () => (window.onscroll = null);
-   
-  // };
-
-  // const handleScroll=(event: any)=>{
-  //  return  isScrolled ? "navbar scrolled" : "NavbarWrapper"
-  //   // console.log(isScrolled)
-  // }
+ 
 
   // Navbar:className={`Navbar ${show && "nav__black"}`}
 

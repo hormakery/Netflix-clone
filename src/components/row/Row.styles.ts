@@ -17,6 +17,7 @@ export const RowWrapper = styled.div`
     }
 
     .row__posterLarge {
+      border-radius: .5vw;
       max-height: 250px;
 
       @media (max-width: 640px) {
@@ -34,6 +35,7 @@ export const RowWrapper = styled.div`
     width: 100%;
     max-height: 100px;
     margin-right: 10px;
+    border-radius: .5vw;
     object-fit: contain;
     transition: transform 450ms;
 
